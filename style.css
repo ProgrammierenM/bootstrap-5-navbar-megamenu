@@ -1,0 +1,10 @@
+.royalblue {
+  color: royalblue;
+}
+
+.hero-image {
+  background-position: left;
+  background-size: cover;
+  width: 100vw;
+  height: 80vh;
+}
