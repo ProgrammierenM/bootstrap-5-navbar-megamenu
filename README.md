@@ -31,7 +31,7 @@
 
 [MIT](LICENSE)
 
-[website]: http://programmierenmitmario.de
+[website]: https://mitmario.dev
 [twitter]: https://twitter.com/programmierenm
 [youtube]: https://youtube.com/programmierenmitmario
 [instagram]: https://instagram.com/programmierenm
